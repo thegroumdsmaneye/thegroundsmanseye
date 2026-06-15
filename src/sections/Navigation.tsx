@@ -60,7 +60,7 @@ export const Navigation: React.FC = () => {
           className="flex items-center gap-3 focus:outline-none focus:ring-2 focus:ring-tge-lime focus:ring-offset-2 focus:ring-offset-tge-black rounded"
         >
           <img
-            src="logo-badge.jpg"
+            src="/thegroundsmanseye/logo-badge.jpg"
             alt="TGE Logo"
             className="w-10 h-10 rounded-full object-cover"
           />
